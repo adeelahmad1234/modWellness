@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local database
+*.db
+
+# SQLite temp files
+*.db-wal
+*.db-shm
+*.db-journal
+
+# Local notes for Claude (never commit)
+CLAUDE.md
